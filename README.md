@@ -1,4 +1,4 @@
-## Hi there 👋
+## 팀개발을 위한 깃허브 시작
 
 <!--
 **Cheony-03/Cheony-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
