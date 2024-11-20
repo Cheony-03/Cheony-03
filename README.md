@@ -1,6 +1,6 @@
 ## 팀개발을 위한 깃허브 시작
 
-![badge] (https://img.shields.io/vadge/Hanbit%20Cat-hello%20GitHub-orange)
+!.[badge]. (https://img.shields.io/vadge/Hanbit%20Cat-hello%20GitHub-orange)
 
 |과일|맛|
 |--------|--------|
